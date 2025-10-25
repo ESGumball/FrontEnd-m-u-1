@@ -13,4 +13,4 @@ Chỉ cần mở file `index.html` bằng trình duyệt.
 
 ## Ghi chú
 - Chỉ dùng HTML/CSS thuần, chưa có JS, animation
-- Phiên bản v1.0
+- Phiên bản v1.1
